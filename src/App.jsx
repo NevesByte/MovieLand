@@ -1,5 +1,5 @@
 import { useState } from "react"
-import MovieCard from "./movieCard"
+import MovieCard from "./MovieCard"
 import SearchImg from './search.svg'
 import './App.css'
 
